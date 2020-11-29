@@ -4,7 +4,7 @@ In this project I am working with Martha, a senior manager for the Advisory Serv
 
 The data Martha and I will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, it is decided to use unsupervised learning. To group the cryptocurrencies, we decided on a clustering algorithm. We’ll use data visualizations to share findings with the board of Accountability Accounting.
 
-## Results: Four Deliverables Were Created
+## Results: Created Four Deliverables
 
 Deliverable 1: Preprocessing the Data for PCA
 Deliverable 2: Reducing Data Dimensions Using PCA
